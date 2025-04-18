@@ -1,0 +1,29 @@
+.um {
+    border: 2px solid black;
+    background-color: aqua;
+}
+
+.dois {
+    border-top: solid blue;
+    border-bottom: solid blue;
+    border-left: solid black;
+    border-right: solid black;
+    background-color: aqua;
+ }
+
+.tres {
+    border-top: solid green;
+    border-bottom: solid green;
+    border-left: solid black;
+    border-right: solid black;
+    background-color: aqua;
+
+}
+
+.quatro{
+    border-top: solid black;
+    border-bottom: solid yellow;
+    border-left: solid blue;
+    border-right: solid green;
+    background-color: aqua;
+   }
